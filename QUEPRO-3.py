@@ -5,4 +5,4 @@ if ACL >= 1 and ACL <= 99:
 elif ACL >= 100 and ACL <= 199:
     print(F"El numero ({ACL}) corresponde a una ACL Extendida")
 else:
-    print(F"El Numero ({ACL}) no corresponde a una ACL")
+    print(F"El numero ({ACL}) no corresponde a una ACL")
